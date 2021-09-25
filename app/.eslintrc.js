@@ -71,7 +71,7 @@ module.exports = {
         "newline-per-chained-call": "error",
         "no-alert": "error",
         "no-array-constructor": "error",
-        "no-bitwise": "error",
+        // "no-bitwise": "error",
         "no-caller": "error",
         "no-catch-shadow": "error",
         "no-confusing-arrow": "error",
@@ -151,8 +151,8 @@ module.exports = {
         "operator-assignment": "error",
         "operator-linebreak": "error",
         "prefer-const": "error",
-        "prefer-reflect": "error",
-        "prefer-spread": "error",
+        // "prefer-reflect": "error",
+        // "prefer-spread": "error",
         "quotes": [
             "error",
             "single"
